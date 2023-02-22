@@ -22,8 +22,8 @@ if choice1 == "left":
     elif choice3 == "magic mushrooms":
       print("Congratulations. The door to Princess Esmerelda's chambers opens. She greets you with a kiss on the cheek and starts to cry hysterically with joy.")
     else:
-      print("You picked an option that wasn't an option. Game Over.")
+      print("Listen very carefully to the secret codes the lovely Esmerelda called out and try again.")
   else:
-    print("Wrong choice buddy.")
+    print("It's not always the easy route dude.")
 else:
-  print("Wrong choice buddy!")
+  print("Your sense of direction leaves a lot to be desired!")
